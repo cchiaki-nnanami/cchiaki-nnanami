@@ -5,3 +5,5 @@
 # Hi! :3
 
 Hi! I'm cchiaki_nnanami; a back-end developer of five years and counting. I'm comfortable with Python, Typescript, Rust, Go, and Lua.
+
+[![Cchiaki_nnanami's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cchiaki_nnanami)](https://github.com/ashutosh00710/github-readme-activity-graph)
